@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogQ", "LogQ\LogQ.csproj", "{57B916E5-3386-4954-B79B-F19564B82C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogProducer", "LogProducer\LogProducer.csproj", "{9596A45E-5AAC-4F87-B79F-863D30B27A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B916E5-3386-4954-B79B-F19564B82C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B916E5-3386-4954-B79B-F19564B82C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B916E5-3386-4954-B79B-F19564B82C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B916E5-3386-4954-B79B-F19564B82C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9596A45E-5AAC-4F87-B79F-863D30B27A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9596A45E-5AAC-4F87-B79F-863D30B27A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9596A45E-5AAC-4F87-B79F-863D30B27A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9596A45E-5AAC-4F87-B79F-863D30B27A64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

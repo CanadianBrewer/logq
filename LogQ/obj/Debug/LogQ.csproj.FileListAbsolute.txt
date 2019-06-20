@@ -1,0 +1,16 @@
+C:\sandbox\source\LogQ\LogQ\bin\Debug\LogQ.dll
+C:\sandbox\source\LogQ\LogQ\bin\Debug\LogQ.pdb
+C:\sandbox\source\LogQ\LogQ\bin\Debug\Newtonsoft.Json.dll
+C:\sandbox\source\LogQ\LogQ\obj\Debug\LogQ.csprojAssemblyReference.cache
+C:\sandbox\source\LogQ\LogQ\obj\Debug\LogQ.csproj.CoreCompileInputs.cache
+C:\sandbox\source\LogQ\LogQ\obj\Debug\LogQ.csproj.CopyComplete
+C:\sandbox\source\LogQ\LogQ\obj\Debug\LogQ.dll
+C:\sandbox\source\LogQ\LogQ\obj\Debug\LogQ.pdb
+D:\git\logq\LogQ\bin\Debug\LogQ.dll
+D:\git\logq\LogQ\bin\Debug\LogQ.pdb
+D:\git\logq\LogQ\bin\Debug\Newtonsoft.Json.dll
+D:\git\logq\LogQ\obj\Debug\LogQ.csproj.CoreCompileInputs.cache
+D:\git\logq\LogQ\obj\Debug\LogQ.csproj.CopyComplete
+D:\git\logq\LogQ\obj\Debug\LogQ.dll
+D:\git\logq\LogQ\obj\Debug\LogQ.pdb
+D:\git\logq\LogQ\obj\Debug\LogQ.csprojAssemblyReference.cache
